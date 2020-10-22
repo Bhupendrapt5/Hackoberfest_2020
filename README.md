@@ -1,4 +1,4 @@
-# Hackoberfest_2020
+# Hacktoberfest_2020
 <br/>
 
 The repository is to encourage beginners to contribute for open source projects. It consists of different issues regarding programming laguages and if you have any ideas on how to resolve the issue then don't hesitate to participate.
