@@ -8,8 +8,10 @@ The repository is to encourage beginners to contribute for open source projects.
 Just follow the given steps to contribute in any issue:
 
 - Fork the repo
-- Clone your forked repo `$ git clone https://github.com/Bhupendrapt5/Hackoberfest_2020.git`
-- Stage the changes for commit `$ git add <filename>`
+- Clone your forked repo `$ git clone https://github.com/Bhupendrapt5/
+Hackoberfest_2020.git`
+- Create branch `$ git checkout -b <branch-name>`
+- Stage the changes for commit `$ git add <filename> OR git add . (to commit all changes)`
 - Commit the changes `$ git commit -m "Commit message"`
-- Push the changes `$ git push`
+- Push the changes `$ git push origin <branch-name>`
 - Make a pull request 
