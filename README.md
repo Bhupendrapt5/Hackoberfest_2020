@@ -1,7 +1,12 @@
 # Hackoberfest_2020
 <br/>
 
-The repository is to encourage beginners to contribute for open source projects. It consists of different issues regarding programming laguages and if you have any ideas on how to resolve the issue then don't hesitate to participate.
+The repository is to encourage beginners to contribute for open source projects. It consists of different issues regarding programming laguages and if you have any ideas on how to resolve the issue then don't hesitate to participate. 
+
+ You can contribute to the project in following ways
+  - submit your working algorithm and projects in whatever programming language u want.
+  - Remove bugs and typos in codes.
+  - Documentaion.
 
 ### How to Contribute?
 
