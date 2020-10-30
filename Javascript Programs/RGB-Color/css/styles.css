@@ -1,0 +1,20 @@
+body {
+  background-color: #564f4f;
+  color: #fff;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+.quadrado {
+  width: 250px;
+  height: 150px;
+  background-color: rgb(0, 0, 0);
+}
+
+#centro {
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+}
