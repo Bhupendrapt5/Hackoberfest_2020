@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cores</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div id="centro">
+      <p>
+        <label> (R) Vermelho: </label>
+        <input id="rangeVermelho" type="range" min="0" max="255" value="0" />
+        <input type="text" id="txtVermelho" disabled size="5" />
+      </p>
+      <p>
+        <label> (G) Verde: </label>
+        <input id="rangVverde" type="range" min="0" max="255" value="0" />
+        <input type="text" id="txtVerde" size="5" disabled />
+      </p>
+      <p>
+        <label> (B) Azul:</label>
+        <input id="rangeAzul" type="range" min="0" max="255" value="0" />
+        <input type="text" id="txtAzul" size="5" disabled />
+      </p>
+
+      <div class="quadrado"></div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
