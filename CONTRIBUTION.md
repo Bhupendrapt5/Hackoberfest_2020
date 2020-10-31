@@ -12,3 +12,8 @@
 - Place: New Delhi, India.
 - Bio: I'm a web developer and game designer.
 - GitHub: [Adarsh](https://github.com/adarsh115)
+
+#### Name: [Mansha Srivastava](https://github.com/123mansha)
+- Place: Varansi, India
+- Bio: I'm a frontend Developer
+- Github:[mansha123](https://github.com/123mansha)
