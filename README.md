@@ -4,7 +4,7 @@
 The repository is to encourage beginners to contribute for open source projects. It consists of different issues regarding programming laguages and if you have any ideas on how to resolve the issue then don't hesitate to participate. 
 
  You can contribute to the project in following ways
-  - submit your working algorithm and projects in whatever programming language u want.
+  - submit your working algorithm and projects in whatever programming language you want.
   - Remove bugs and typos in codes.
   - Documentaion.
 
